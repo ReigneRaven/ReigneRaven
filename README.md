@@ -5,7 +5,7 @@
  
 I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
 
-<!--*   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com) -->
+📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
 *   🌱  I'm currently learning React and Graphic Designing
 *   🎯  Hobbies: Playing piano, reading manga and watching anime.
  
@@ -28,10 +28,16 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 <br />
 <br />
 
-<!--<h2>🌴 Connect with me:</h2>
+<h2>🌴 Connect with me:</h2>
 
-[[![website](./imgs/globe-light.svg)](https://www.facebook.com/reigneraven.ramos/#gh-light-mode-only)
-[![website](./imgs/globe-dark.svg)](https://www.facebook.com/reigneraven.ramos/#gh-dark-mode-only)
+<a href="https://your-social-media-link.com](https://www.facebook.com/reigneraven.ramos/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">
+    <img alt="Hashnode logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg" height="30">
+  </picture>
+</a>
+
 &nbsp;&nbsp;
 [![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-light-mode-only)
 [![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-dark-mode-only)
