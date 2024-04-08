@@ -30,20 +30,27 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 
 <h2>🌴 Connect with me:</h2>
 
-<a href="https://www.facebook.com/reigneraven.ramos/#gh-dark-mode-only">
-  <img src="./img/facebook-light.svg" alt="Facebook" height="30">
+<a href="https://www.facebook.com/reigneraven.ramos/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">
+    <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg" height="30">
+  </picture>
 </a>
-
-<a href="https://www.facebook.com/reigneraven.ramos/#gh-light-mode-only">
-  <img src="./img/facebook-dark.svg" alt="Facebook" height="30">
+&nbsp;
+<a href="https://github.com/ReigneRaven">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-dark.svg">
+    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg" height="32">
+  </picture>
 </a>
-
 &nbsp;&nbsp;
 [![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-light-mode-only)
 [![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/krt.zzz_/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)](url)
+[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)
 
 ------------------------------
 <!--<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186?borderRadius=8px&hideDiscrim=true"/></a> -->
