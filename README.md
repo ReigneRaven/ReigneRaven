@@ -5,7 +5,7 @@
 I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
 
 <!--*   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com) -->
-*   🌱  I'm currently learning React and Anime
+*   🌱  I'm currently learning React and Graphic Designing
 *   🎯  Hobbies: Playing piano, reading manga and watching anime.
  
 <h2>🧰 Languages and Tools</h2>
@@ -27,21 +27,18 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 <br />
 <br />
 
-<h2>🌴 Connect with me:</h2>
+<!--<h2>🌴 Connect with me:</h2>
 
-[![website](./imgs/globe-light.svg)](https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/#gh-light-mode-only)
-[![website](./imgs/globe-dark.svg)](https://www.facebook.com/profile.php?id=100008866333712&mibextid=ZbWKwL/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/terminal-light.svg)](https://www.dev.to/katowu#gh-light-mode-only)
-[![website](./imgs/terminal-dark.svg)](https://www.dev.to/katowu#gh-dark-mode-only)
+[[![website](./imgs/globe-light.svg)](https://www.facebook.com/reigneraven.ramos/#gh-light-mode-only)
+[![website](./imgs/globe-dark.svg)](https://www.facebook.com/reigneraven.ramos/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-light-mode-only)
 [![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/kurt-guen-petrola-0b5469251/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://www.instagram.com/krt.zzz_/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)
+[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)](url)
 
 ------------------------------
-<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186?borderRadius=8px&hideDiscrim=true"/></a>
+<!--<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186?borderRadius=8px&hideDiscrim=true"/></a> -->
 
 <!-- <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif"> -->
