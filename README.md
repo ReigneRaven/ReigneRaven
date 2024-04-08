@@ -42,7 +42,7 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-dark.svg">
-    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg" height="32">
+    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg" height="31">
   </picture>
 </a>
 &nbsp;&nbsp;
