@@ -30,12 +30,12 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 
 <h2>🌴 Connect with me:</h2>
 
-<a href="https://your-social-media-link.com](https://www.facebook.com/reigneraven.ramos/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">
-    <img alt="Hashnode logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg" height="30">
-  </picture>
+<a href="https://www.facebook.com/reigneraven.ramos/#gh-dark-mode-only">
+  <img src="./img/facebook-light.svg" alt="Facebook" height="30">
+</a>
+
+<a href="https://www.facebook.com/reigneraven.ramos/#gh-light-mode-only">
+  <img src="./img/facebook-dark.svg" alt="Facebook" height="30">
 </a>
 
 &nbsp;&nbsp;
