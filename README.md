@@ -46,18 +46,24 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
   </picture>
 </a>
 &nbsp;
-<a href="https://github.com/ReigneRaven">
+<a href="https://www.linkedin.com/in/reigne-raven-ramos-98a103253/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">
     <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg" height="35">
   </picture>
 </a>
-&nbsp;&nbsp;
-[![website](./imgs/instagram-light.svg)](https://www.instagram.com/krt.zzz_/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/krt.zzz_/#gh-dark-mode-only)
+&nbsp;
+<a href="https://www.instagram.com/rimuru_sama1004/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">
+    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg" height="35">
+  </picture>
+</a>
 
 ------------------------------
-<!--<a href="https://discord.com/users/866124582673842186"><img align="left" src="https://lanyard.cnrad.dev/api/866124582673842186?borderRadius=8px&hideDiscrim=true"/></a> -->
+<a href="https://discord.com/users/1038482905753714779"><img align="left" src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
+<img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
 
-<!-- <img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif"> -->
+<!--<img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">-->
