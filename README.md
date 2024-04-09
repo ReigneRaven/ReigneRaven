@@ -47,7 +47,7 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
    </picture>
  </a>
  &nbsp;
- <a href="https://www.linkedin.com/in/reigne-raven-ramos-98a103253/">
+ <a href="https://www.linkedin.com/in/reigneravenramos/">
    <picture>
      <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">-->
      <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">-->
