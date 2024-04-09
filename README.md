@@ -46,11 +46,19 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
   </picture>
 </a>
 &nbsp;
+<a href="https://gitlab.com/ReigneRaven">
+  <picture>
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-light.svg">-->
+    <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg">-->
+    <img alt="Dev logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg" height="35">
+  </picture>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/reigne-raven-ramos-98a103253/">
   <picture>
     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">-->
     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">-->
-    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg" height="35">
+    <img alt="Linkedin logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg" height="35">
   </picture>
 </a>
 &nbsp;
@@ -58,7 +66,7 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
   <picture>
     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">-->
     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">-->
-    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg" height="35">
+    <img alt="Instagram logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg" height="35">
   </picture>
 </a>
 
