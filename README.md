@@ -4,8 +4,6 @@
 **`Information Technology Student(WebDev)`** 
 
 I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
-<img align="right" alt="cute-doggo-couple" width="auto" height="140" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
-
 
 *   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
 *   🌱  I'm currently learning React and Graphic Designing
