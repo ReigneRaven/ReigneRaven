@@ -3,12 +3,11 @@
 
 **`Information Technology Student(WebDev)`** 
 
-I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology. <img alt="cute-doggo-couple" align="right" width="auto" height="140" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
-
+I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
 
 *   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
 *   🌱  I'm currently learning React and Graphic Designing
-*   🎯  Hobbies: Playing piano, reading manga and watching anime.
+*   🎯  Hobbies: Playing piano, reading manga and watching anime
 
 <h2>🧰 Languages and Tools</h2>
 
