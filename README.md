@@ -1,15 +1,14 @@
 <!--# 🌌 Reigne Raven Ramos-->
 <p align = "center" ><img align="center" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/raven-readme-header.png" /></p>
-<img alt="cute-doggo-couple" align="right" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
 
-**`Information Technology Student(WebDev)`**
- 
+**`Information Technology Student(WebDev)`** 
+
 I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
 
 *   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
 *   🌱  I'm currently learning React and Graphic Designing
 *   🎯  Hobbies: Playing piano, reading manga and watching anime.
- 
+
 <h2>🧰 Languages and Tools</h2>
 
  <img align="left" alt="Java" height="35" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -74,6 +73,9 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 
 ------------------------------
 
- <a href="https://discord.com/users/1038482905753714779"><img align="left" src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
- <!--<img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
+<p align="center">
+    <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
+    <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
+</p>
+
  <!--<img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">-->
