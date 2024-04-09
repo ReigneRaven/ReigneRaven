@@ -1,6 +1,8 @@
 <!--# 🌌 Reigne Raven Ramos-->
 <p align = "center" ><img align="center" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/raven-readme-header.png" /></p>
-<img alt="cute-doggo-couple" align="right" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
+<div style="text-align: right;">
+    <img alt="cute-doggo-couple" style="width: auto; height: 210px; float: right;" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
+</div>
 
 **`Information Technology Student(WebDev)`**
  
