@@ -15,8 +15,7 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 
 <p align="center">
   <!--<a href="https://skillicons.dev"></a>-->
-    <img src="https://skillicons.dev/icons?i=java,js,git,react,vscode,visualstudio,androidstudio,eclipse" /> <!--</br>-->
-    <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb,postman,bootstrap,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=java,js,git,react,vscode,visualstudio,androidstudio,html,css,mysql,mongodb,postman,bootstrap,figma,ps" /> =
 </p>
 
 <h2>🌐 Connect with me:</h2>
