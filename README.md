@@ -74,7 +74,10 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
  </a>
 
 ------------------------------
- <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
- <!--<img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
+<p align="center">
+    <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
+  <!--&nbsp; &nbsp;
+    <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
+</p>
 
  <!--<img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">-->
