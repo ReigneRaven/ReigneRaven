@@ -74,7 +74,7 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
  </a>
 
 ------------------------------
-<p align="center">
+<p align="left">
     <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
   <!--&nbsp; &nbsp;
     <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
