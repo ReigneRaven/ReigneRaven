@@ -5,7 +5,7 @@
  
 I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
 
-📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
+*   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
 *   🌱  I'm currently learning React and Graphic Designing
 *   🎯  Hobbies: Playing piano, reading manga and watching anime.
  
@@ -32,32 +32,32 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 
 <a href="https://www.facebook.com/reigneraven.ramos/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">-->
+    <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">-->
     <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg" height="35">
   </picture>
 </a>
 &nbsp;
-<a href="https://github.com/ReigneRaven">
+<a href="https://dev.to/reigneraven">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-dark.svg">
-    <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/github-dark.svg" height="35">
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">-->
+    <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">-->
+    <img alt="Dev logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg" height="35">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/reigne-raven-ramos-98a103253/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">-->
+    <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">-->
     <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg" height="35">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/rimuru_sama1004/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">-->
+    <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">-->
     <img alt="Github logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg" height="35">
   </picture>
 </a>
