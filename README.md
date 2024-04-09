@@ -25,44 +25,76 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 <p align="center">
  <a href="https://www.facebook.com/reigneraven.ramos/">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">-->
+     <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook.svg" height="35">
+   </picture>
+ </a>
+ &nbsp;
+  <a href="https://dev.to/reigneraven">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=devto" height="36"/>
+   </picture>
+ </a>
+  &nbsp;
+ <a href="https://gitlab.com/ReigneRaven">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=gitlab" height="38"/>
+   </picture>
+ </a>
+  &nbsp;
+ <a href="https://www.linkedin.com/in/reigneravenramos/">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+   </picture>
+ </a>
+  &nbsp;
+ <a href="https://www.instagram.com/rimuru_sama1004/">
+   <picture>
+      <img src="https://skillicons.dev/icons?i=instagram" height="36"/>
+   </picture>
+ </a>
+</p>
+
+<!--<p align="center">
+ <a href="https://www.facebook.com/reigneraven.ramos/">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-light.svg">
+     source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg">
      <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://dev.to/reigneraven">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">-->
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-light.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg">
      <img alt="Dev logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/dev-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://gitlab.com/ReigneRaven">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg">-->
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-light.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg">
      <img alt="Dev logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/gitlab-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://www.linkedin.com/in/reigneravenramos/">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">-->
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-light.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg">
      <img alt="Linkedin logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/linkedin-dark.svg" height="35">
    </picture>
  </a>
  &nbsp;
  <a href="https://www.instagram.com/rimuru_sama1004/">
    <picture>
-     <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">-->
-     <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">-->
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-light.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg">
      <img alt="Instagram logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/instagram-dark.svg" height="35">
    </picture>
  </a>
-</p>
+</p>-->
 
 ------------------------------
 <p align="left">
