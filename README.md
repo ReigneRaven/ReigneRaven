@@ -1,9 +1,11 @@
 <!--# 🌌 Reigne Raven Ramos-->
-<p align = "center" ><img align="center" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/raven-readme-header.png" /></p>
+<p align="center" ><img align="center" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/raven-readme-header.png" /></p>
 
 **`Information Technology Student(WebDev)`** 
 
 I am an aspiring Web Developer and is currently studying Bachelor of Science in Information Technology.
+
+  <img align="right" alt="cute-doggo-couple" width="auto" height="100" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">
 
 *   📫  You can contact me at [rpramos.school@gmail.com](mailto:rpramos.school@gmail.com)
 *   🌱  I'm currently learning React and Graphic Designing
