@@ -25,19 +25,19 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 <p align="center">
  <a href="https://www.facebook.com/reigneraven.ramos/">
    <picture>
-     <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook.svg" height="35">
+     <img alt="Facebook logo" src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/facebook.svg" height="36">
    </picture>
  </a>
  &nbsp;
   <a href="https://dev.to/reigneraven">
    <picture>
-      <img src="https://skillicons.dev/icons?i=devto" height="36"/>
+      <img src="https://skillicons.dev/icons?i=devto" height="37"/>
    </picture>
  </a>
   &nbsp;
  <a href="https://gitlab.com/ReigneRaven">
    <picture>
-      <img src="https://skillicons.dev/icons?i=gitlab" height="38"/>
+      <img src="https://skillicons.dev/icons?i=gitlab" height="36"/>
    </picture>
  </a>
   &nbsp;
