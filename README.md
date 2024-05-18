@@ -99,6 +99,7 @@ I am an aspiring Web Developer and is currently studying Bachelor of Science in 
 ------------------------------
 <p align="left">
     <a href="https://discord.com/users/1038482905753714779"><img src="https://lanyard.cnrad.dev/api/1038482905753714779?borderRadius=8px&hideDiscrim=true"/></a>
+    <a href="https://app.daily.dev/reigneraven"><img src="https://api.daily.dev/devcards/v2/eDuk1xhYSuOBZ2P2Z7ujN.png?r=r9h&type=wide" width="400" alt="Reigne Raven's Dev Card"/></a>
   <!--&nbsp; &nbsp;
     <img alt="cute-doggo-couple" width="auto" height="210" src="https://media.tenor.com/h67tbKxNTyAAAAAi/corgi-love.gif">-->
 </p>
