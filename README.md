@@ -75,8 +75,8 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
    </ul> 
  </td>
  <td>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&logoColor=white&style=flat"></a>
-  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&logoColor=white&style=flat"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&logoColor=white&style=flat"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&logoColor=white&style=flat"></a>
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white&style=flat"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=flat"></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=white&style=flat"></a>
