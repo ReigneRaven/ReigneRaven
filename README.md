@@ -57,7 +57,7 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
   <td width="70%">
     <ul>
       <li> Hi 👋, I'm Reigne Raven Ramos </li>
-      <li> A Senior Information Technology Student 
+      <li> A Graduating Information Technology Student 
       <li> I'm a frontend developer and graphic designer</li>
       <li> I also build games!</li>
       <li> 🌱 I'm currently learning:   
