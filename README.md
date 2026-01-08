@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ReigneRaven/ReigneRaven/blob/main/img/raven-readme-header.png" alt="Reigne Raven Ramos Header" />
+  <img src="https://github.com/ReigneRaven/ReigneRaven/blob/main/Github Header Ven.png" alt="Reigne Raven Ramos Header" />
 </p>
 
 <!-- **`Information Technology Student | Aspiring Web Developer`**
@@ -56,10 +56,9 @@ I’m currently pursuing a Bachelor of Science in Information Technology, with a
  <tr>
   <td width="70%">
     <ul>
-      <li> Hi 👋, I'm Reigne Raven Ramos </li>
-      <li> A Graduating Information Technology Student 
-      <li> I'm a frontend developer and graphic designer</li>
-      <li> I also build games!</li>
+      <li> A Web Developer and UI/UX Designer </li>
+      <li> I'm a frontend developer and graphic designer </li>
+      <li> I also help design games!</li>
       <li> 🌱 I'm currently learning:   
         <ul> 
           <li> Graphic design </li>   
